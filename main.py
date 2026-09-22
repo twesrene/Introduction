@@ -27,15 +27,15 @@ while True:
         print("I can speak using Indonesia ,English ,Hokkian and currently learning Chinese(中文) and Melayu!")
 
     elif t == "F" :
-        print("My Target right now is learning how to develop website and interested in Tech Company in Malaysia and Singapore  !")
+        print("My Target right now is learning how to develop website and i am interested in Tech Company at Malaysia and Singapore  !")
 
     elif t == "G" :
         print("Thank you see you next time  !")
         break
         
     else:
-        print("Sorry this choice isnt available.")
-        continue
+        print("Sorry this choice isnt available, please choose A-G, Thank you !")
+        break
 
     time.sleep(2)
 
