@@ -9,4 +9,8 @@ A chat bot that answers common questions about me , where i am from , what i stu
 
 How to run this?
 1. If you have Vs code and python on it just copy the code and run it normally
-2. If you dont you can use this link (
+2. If you dont you can use this link (https://www.programiz.com/python-programming/online-compiler/) then copy my code in there to try it out!
+
+Apps Used :
+- VS Code (Python)
+- GitHub
