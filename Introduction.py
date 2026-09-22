@@ -13,32 +13,29 @@ while True:
 
     if t == "A" :
         print("Hi There my name is Twesrene, Nice to meet you !")
-        time.sleep (2)
 
     elif t == "B" :
         print("Hi I am from Batam, Indonesia !")
-        time.sleep (2)
 
     elif t == "C" :
         print("Hi I am currently Studying in Xiamen University Malaysia year 2026!")
-        time.sleep (2)
 
     elif t == "D" :
         print("Hi I am majoring in Software Engineering !")
-        time.sleep (2)
 
     elif t == "E" :
         print("I can speak using Indonesia ,English ,Hokkian and currently learning Chinese(中文) and Melayu!")
-        time.sleep (2)
 
     elif t == "F" :
         print("My Target right now is learning how to develop website and interested in Tech Company in Malaysia and Singapore  !")
-        time.sleep (2)
 
     elif t == "G" :
         print("Thank you see you next time  !")
         break
-
+        
     else:
         print("Sorry this choice isnt available.")
-        break
+        continue
+
+    time.sleep(2)
+
