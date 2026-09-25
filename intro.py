@@ -8,7 +8,8 @@ while True:
     print("D. Majoring ? ")
     print("E. Languages ? ")
     print("F. Target ? ")
-    print("G. Nothing Else")
+    print("G. My Socials?")
+    print("H. Nothing Else")
     t = input("Choose what point do you wanna know? ").upper()
 
     if t == "A" :
@@ -28,8 +29,11 @@ while True:
 
     elif t == "F" :
         print("My Target right now is learning how to develop website and i am interested in Tech Company at Malaysia and Singapore  !")
-
+    
     elif t == "G" :
+        print("My Social on Instagram is @twsren and you can also contact me via email at twesrenee@gmail.com  !")
+
+    elif t == "H" :
         print("Thank you see you next time  !")
         break
         
