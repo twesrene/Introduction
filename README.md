@@ -2,7 +2,7 @@ Hello , I'm Twesrene
 I am  a freshmen from Batam, Indonesia 
 Currently Majoring in Software Engineering At Xiamen University Malaysia (2026)
 
-This is my interactive python program to get to know me even better. Aswell as my process of learning coding in software engineering at Xiamen University malaysia.
+This is my interactive python program to get to know me even better. Aswell as my process of learning coding in software engineering at Xiamen University Malaysia.
 
 What it Does?
 A chat bot that answers common questions about me , where i am from , what i study and my goals.
