@@ -7,8 +7,9 @@ this is my crochet star that i did!!
 
 <img width="211" height="335" alt="WhatsApp Image 2026-10-16 at 15 21 14" src="https://github.com/user-attachments/assets/c20986af-bc40-48a7-ac80-67dea76c4d53" />
 
+Another update i got accepted to become a student helper at xiamen university malaysia! as an it helper i hope i can learn alot and share my experience here!
 
-This is my interactive python program to get to know me even better. Aswell as my process of learning coding in software engineering at Xiamen University Malaysia.
+"intro.py" is my interactive python program to get to know me even better. Aswell as my process of learning coding in software engineering at Xiamen University Malaysia.
 
 What it Does?
 A chat bot that answers common questions about me , where i am from , what i study and my goals.
